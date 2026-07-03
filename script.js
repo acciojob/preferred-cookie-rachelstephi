@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const form = document.getElementById("settings-form");
+const form = document.querySelector("form");
 const fontSizeInput = document.getElementById("fontsize");
 const fontColorInput = document.getElementById("fontcolor");
 
